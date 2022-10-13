@@ -72,7 +72,7 @@ global.themeemoji = "🦄" //ur theme emoji
 global.packname = "NORRY MUSIC" //ur sticker watermark packname
 global.author = "NADEEPA" //ur sticker watermark author
 global.menumoji ="💖"
-global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
+global.menuimg = "https://i.ibb.co/xsGS4Nq/IMG-20221012-WA0052.jpg " //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
